@@ -1,0 +1,19 @@
+{
+  "name": "Bot",
+  "description": "LINE BOT ",
+  "keywords": [
+    "python"
+  ],
+  "env": {
+    "LINE_CHANNEL_SECRET": {
+      "description": "LINE Channel Secret"
+    },
+    "LINE_CHANNEL_ACCESS_TOKEN": {
+      "description": "LINE Channel Access Token"
+    },
+    "DEBUG": {
+      "description": "Whether to debug",
+      "value": "True"
+    }
+  }
+}
